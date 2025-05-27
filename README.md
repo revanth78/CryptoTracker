@@ -6,4 +6,4 @@
 
 * Implemented interactive charts and data visualization to display price movements and market analytics.
 
-*Created responsive design with search functionality allowing users to track multiple cryptocurrencies simultaneously.
+* Created responsive design with search functionality allowing users to track multiple cryptocurrencies simultaneously.
